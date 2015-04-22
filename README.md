@@ -7,7 +7,7 @@
 ###6.本地安装gulp插件
 6.1 首先本地安装gulp：**cnpm install gulp --save-dev**
 6.2 然后安装所需的插件如：**cnpm install gulp-less --save-dev**
-6.3 一些常用插件推荐：gulp-minify-css gulp-jshint gulp-concat gulp-uglify gulp-imagemin imagemin-pngquant gulp-notify gulp-rename browser-sync gulp-cache gulp-htmlmin gulp-rev-append等
+6.3 一些常用插件推荐：gulp-load-plugins gulp-minify-css gulp-jshint gulp-concat gulp-uglify gulp-imagemin imagemin-pngquant gulp-notify gulp-rename browser-sync gulp-cache gulp-htmlmin gulp-rev-append等
 npm插件下载地址：https://www.npmjs.com/
 ###7.新建gulpfile.js,如下
 ```js
